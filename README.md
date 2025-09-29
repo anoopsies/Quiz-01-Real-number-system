@@ -17,7 +17,6 @@
   </style>
 </head>
 <body>
-  <h2>Quiz: Real Numbers and Functions of One Variable</h2>
   <form id="quizForm">
 
     <div class="question">
