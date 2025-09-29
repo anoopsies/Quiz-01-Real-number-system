@@ -1,4 +1,4 @@
-# Quiz-01-Real-number-system(by Anoop S V)
+# Real-number-system(by Anoop S V)
 <html lang="en">
 <head>
   <meta charset="UTF-8">
